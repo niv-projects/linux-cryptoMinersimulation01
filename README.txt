@@ -1,3 +1,4 @@
+FINAL GRADE: 95
 MtaCoin: Multi-threaded Blockchain Mining Simulation
 
 This project implements a multi-threaded cryptocurrency blockchain mining simulation in C++. It simulates a simplified version of blockchain mining with 4 miner threads and 1 server thread, as per the assignment requirements. The miners calculate hashes for blocks, while the server verifies and appends valid blocks to the blockchain.
