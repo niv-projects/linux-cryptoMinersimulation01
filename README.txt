@@ -30,6 +30,7 @@ command:
 cd miners
 
 3.Create a build directory and compile the project:
+command:
 
 mkdir build
 cd build
